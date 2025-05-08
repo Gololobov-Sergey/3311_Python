@@ -1,11 +1,11 @@
-def printLine(count, symbol):
+def printLine(count, symbol = "*"):
     print(symbol * count)
 
-# printLine(20, '*')
+printLine(20)
 #
 # print("mama")
 #
-# printLine(30, '$')
+printLine(30, '$')
 #
 # print("Hello")
 #
@@ -32,7 +32,7 @@ def square(n):
 
 
 
-square(4)
+# square(4)
 
 # * * * * *
 # *       *
