@@ -39,7 +39,7 @@ else:
     print("Parne")
 
 
-for i in range(5):
+for i in range(5, 0, -1):
     print("mama")
 
 while b < 10:
